@@ -1,0 +1,6 @@
+# LIST SETELAH GAME SELESAI
+[] Testing semua key yang ada di accept event method
+[] Ganti model, kustom beberapa tampilan 
+  (ubah tampilan map, warna, player, texture)
+[] Screentshot setiap action, dan taruh di Powerpoint / Google Slide / Canva
+[] Upload kode ke Github
